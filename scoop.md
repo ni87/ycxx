@@ -16,3 +16,6 @@ scoop bucket extras
 
 scoop bucket add dorado https://github.com/h404bi/dorado
 
+### Check update
+
+scoop update 
